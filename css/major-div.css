@@ -1,0 +1,17 @@
+.major-div {
+  display: inline-flex;
+  justify-items: center;
+  margin-bottom: 15px;
+  margin-left: 50px;
+}
+
+.major-div label {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.major-div p {
+  margin: 0;
+  margin-left: 10px;
+  align-self: center;
+}

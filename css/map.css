@@ -1,0 +1,9 @@
+.map {
+  position: absolute;
+  left: 750px;
+  top: 225px;
+  width: 125px;
+  height: 100px;
+  filter: grayscale(20%);
+  opacity: 0.5;
+}

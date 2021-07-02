@@ -1,0 +1,33 @@
+.infos {
+  margin-left: 50px;
+}
+
+th,
+td {
+  text-align: center;
+  border: 0.5px solid #300;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+th {
+  background-color: #d8d8d8;
+  font-weight: bold;
+  font-size: 20px;
+  box-shadow: 0.75px 0.75px #888888;
+  color: black;
+  text-shadow: #888888 0.1em 0.1em 0.2em;
+}
+
+td {
+  width: 375px;
+  box-shadow: 1.5px 1px #888888;
+  text-shadow: black 0.05em 0.05em 0.2em;
+  font-size: 17px;
+}
+
+input {
+  background: #d8d8d8;
+  border: 1.5px solid black;
+  box-shadow: 2.5px 3.5px #888888;
+}

@@ -1,0 +1,8 @@
+.msg-erro {
+  visibility: hidden;
+  margin-left: 50px;
+}
+
+.msg-erro.ativo {
+  visibility: visible;
+}

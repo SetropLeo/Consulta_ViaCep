@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/geral.css">
+  <title>Consulta CEP</title>
+</head>
+<body>
+  <h1 class="titulo">Consulta CEP</h1>
+  <div class="major-div">
+    <form>
+      <label for="CEP">Digite seu Cep:</label>
+      <input type="text" id="number-cep">
+    </form>
+    <button class="btn">Buscar informações ⤞</button>
+  </div>
+  <p class="msg-erro">Não foi possível encontrar o CEP informado.</p>
+    <div class="infos">
+      <table>
+      <tr>
+        <th>Cep:</th>
+        <td class="resposta" id="cepNum"></td>
+      </tr>
+      <tr>
+        <th>Logradouro:</th>
+        <td class="resposta" id="logradouro"></td>
+      </tr>
+      <tr>
+        <th>Complemento</th>
+        <td class="resposta" id="complemento"></td>
+      </tr>
+      <tr>
+        <th>Bairro:</th>
+        <td class="resposta" id="bairro"></td>
+      </tr>
+      <tr>
+        <th>Localidade:</th>
+        <td class="resposta" id="localidade"></td>
+      </tr>
+      <tr>
+        <th>UF:</th>
+        <td class="resposta" id="uf"></td>
+      </tr>
+      <tr>
+        <th>DDD:</th>
+        <td class="resposta" id="dddNumero"></td>
+      </tr>
+    </table>
+    </div>
+    <div class="map">
+      <img src="./imgs/tracker-map.png" alt="tracker-map">
+    </div>
+      <div class="copy">
+        <p>Todos os direitos reservados. ©</p>
+      </div>
+    <script src="script.js"></script>
+</body>
+</html>

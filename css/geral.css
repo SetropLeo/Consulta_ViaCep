@@ -1,0 +1,11 @@
+@import url("./btn.css");
+@import url("./tabelas.css");
+@import url("./messages.css");
+@import url("./copy.css");
+@import url("./major-div.css");
+@import url("./titulo.css");
+@import url("./map.css");
+
+body {
+  font-family: "IBM Plex Mono";
+}
