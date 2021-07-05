@@ -1,10 +1,8 @@
 # Consulta_ViaCep
 <h1>Consulta ViaCep<h1>
 
-<pre>
-The project follows a similar line to Correios Busca CEP. 
-Developed to practice HTML, CSS, JavaScript and your requests using Fetch.
-</pre>
+<p>The project follows a similar line to Correios Busca CEP.</p>
+<p>Developed to practice HTML, CSS, JavaScript and your requests using Fetch.</p>
 <hr>
 
 <h2>Screens</h2>
