@@ -2,7 +2,6 @@
 
 <p style="font-size:15px;">The project follows a similar line to Correios Busca CEP.</p>
 <p>Developed to practice HTML, CSS, JavaScript and your requests using Fetch.</p>
-<br>
 
 <h2>Screens</h2>
 <table>
